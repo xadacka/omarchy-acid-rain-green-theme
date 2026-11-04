@@ -1,0 +1,38 @@
+mode = "dark"
+
+# Acid Rain Green: mint neon, cyan and lime over deep teal-black.
+# The primary mint has the strongest chroma so RGB sync selects it first.
+accent = "#1bf6b4"
+selection = "#103e34"
+muted = "#397769"
+
+background = "#030f0c"
+dark_background = "#020a08"
+darker_background = "#010504"
+lighter_background = "#0a2b23"
+
+foreground = "#d2fff0"
+dark_foreground = "#76a99b"
+light_foreground = "#e6fff6"
+bright_foreground = "#ffffff"
+
+cyan = "#36e8ea"
+green = "#1bf6b4"
+magenta = "#b587b8"
+
+red = "#ee6681"
+yellow = "#c8e85a"
+orange = "#e9a063"
+blue = "#69a9e6"
+brown = "#8a8170"
+
+bright_cyan = "#8af5f2"
+bright_green = "#98ffda"
+bright_magenta = "#d5b0d8"
+bright_red = "#ff9aab"
+bright_yellow = "#e1f69a"
+bright_blue = "#a3cefa"
+
+# Mint leads the same diagonal triple-neon border as the original.
+hyprland_active_border = "rgba(1bf6b4ee) rgba(36e8eaee) rgba(98ffdaee) 45deg"
+hyprland_inactive_border = "rgba(103e34aa)"
