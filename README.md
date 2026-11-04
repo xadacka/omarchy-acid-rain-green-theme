@@ -1,5 +1,7 @@
 # Acid Rain Green
 
+![Acid Rain Green desktop: btop, fastfetch and terminals](screenshot.png)
+
 A green-first variant of Acid Rain, centred on `#1bf6b4`.
 Mint neon, cyan and lime sit over deep teal-black, with mint-white text.
 Pink is reserved for a muted semantic terminal colour.
