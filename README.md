@@ -6,7 +6,9 @@ A green-first variant of Acid Rain, centred on `#1bf6b4`.
 Mint neon, cyan and lime sit over deep teal-black, with mint-white text.
 Pink is reserved for a muted semantic terminal colour.
 
-The original Acid Rain theme is kept separately and unchanged.
+The original Acid Rain theme is kept separately and unchanged. For comparison, this is the original on the same desktop:
+
+![Original Acid Rain desktop](screenshot-original.png)
 
 Install and apply:
 
